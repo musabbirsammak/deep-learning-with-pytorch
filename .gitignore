@@ -8,3 +8,4 @@ ipython_config.py
 checkpoints/*
 models/*
 datasets/*
+res/*
